@@ -24,6 +24,9 @@
         margin-top: 10px;
         margin-left: 20px;
     }
+    body{
+        background-color: gray;
+    }
 </style>
 
 <body>
@@ -45,8 +48,6 @@
             <button class="btn btn-primary">Enviar</button>
         </div>
     </form>
-
-
 </body>
 
 </html>
